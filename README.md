@@ -1,12 +1,11 @@
-[README.md](https://github.com/user-attachments/files/27389506/README.md)
-# DIFF_FECG# DIFF_Fetal_ECG
+# DIFF_Fetal_ECG
 
-Recommended Python version: **3.11**
+Recommended Python version: **3.12**
 
 ## 1. Create virtual environment
 ```powershell
 cd D:\project_fetal_ecg\DIFF_Fetal_ECG
-py -3.11 -m venv .venv
+py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
