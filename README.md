@@ -38,7 +38,7 @@ D:\project_fetal_ecg\
 
 ## 4. Run loader test
 ```powershell
-python train.py
+python train_full_pipeline_adfecgdb.py
 ```
 
 This first step only tests:
